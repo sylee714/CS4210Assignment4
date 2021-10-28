@@ -3,7 +3,7 @@
 # FILENAME: deep_learning.py
 # SPECIFICATION: A DNN model on  the dataset Fashion MNIST
 # FOR: CS 4210- Assignment #4
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 10hr
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU CAN USE ANY PYTHON LIBRARY TO COMPLETE YOUR CODE.

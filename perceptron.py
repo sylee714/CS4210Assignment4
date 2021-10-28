@@ -3,7 +3,7 @@
 # FILENAME: perception.py
 # SPECIFICATION: A perception model on the optdigits dataset.
 # FOR: CS 4210- Assignment #4
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 10hr
 # -----------------------------------------------------------*/
 
 # IMPORTANT NOTE: YOU HAVE TO WORK WITH THE PYTHON LIBRARIES numpy AND pandas to complete this code.
