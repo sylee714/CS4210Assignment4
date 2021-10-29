@@ -38,11 +38,11 @@ for w in n:  # iterates over n
 
             # Create a Neural Network classifier
             if a == 0:
-                clf = Perceptron(eta0=w, random_state=b,
+                clf = Perceptron(eta0=w, shuffle=b,
                                  max_iter=1000)  # eta0 = learning rate, random_state = shuffle the training data
             else:
                 clf = MLPClassifier(activation='logistic', learning_rate_init=w, hidden_layer_sizes=(25,),
-                                    random_state=b,
+                                    shuffle=b,
                                     max_iter=1000)  # learning_rate_init = learning rate, hidden_layer_sizes = number of neurons in the ith hidden layer, random_state = shuffle the training data
 
             # Fit the Neural Network to the training data
